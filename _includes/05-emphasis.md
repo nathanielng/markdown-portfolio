@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Emphasis can be added to text. You may make words **bold** by enclosing them between double asterisks.  Or words can be _italicized_ by enclosing them between underscores.  Finally, words can be made both **bold** and *italic* by combining the two symbols, e.g. **_this phrase is both bold and italic_**.
